@@ -21,3 +21,10 @@ var money = 500;
 var player = 10;
 var eachPlayer = money / player;
 console.log(eachPlayer);
+//Morning Revission 
+var fozorNamaz = 4;
+var zohorNamaz = 12;
+var twoWakto = fozorNamaz + zohorNamaz;
+console.log(twoWakto) ;
+var namazPorco = true;
+var namazTime = "Sokal 5 tai porci" ;
